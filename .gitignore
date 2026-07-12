@@ -1,0 +1,38 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio and IDE files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local environment
+.env
+.env.*
+!.env.example
+appsettings.Local.json
+appsettings.*.Local.json
+
+# Node/Vite artifacts
+node_modules/
+dist/
+.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Playwright
+playwright-report/
+test-results/
+blob-report/
+
+# Coverage
+coverage/
+TestResults/
+*.coverage
+*.coveragexml
+coverage.cobertura.xml

@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="src/Phonebook.Domain/Phonebook.Domain.csproj" />
+  <Project Path="src/Phonebook.Application/Phonebook.Application.csproj" />
+  <Project Path="src/Phonebook.Infrastructure/Phonebook.Infrastructure.csproj" />
+  <Project Path="src/Phonebook.Api/Phonebook.Api.csproj" />
+  <Project Path="tests/Phonebook.DomainTests/Phonebook.DomainTests.csproj" />
+  <Project Path="tests/Phonebook.ApplicationTests/Phonebook.ApplicationTests.csproj" />
+  <Project Path="tests/Phonebook.IntegrationTests/Phonebook.IntegrationTests.csproj" />
+</Solution>
